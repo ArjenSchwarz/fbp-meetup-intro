@@ -1,6 +1,7 @@
 {
   "id": "e4e0b8df-2634-4fe7-beee-db32ec3996ee",
   "host": "172.20.10.4",
+  "user": "4b4705e2-b740-48f4-8afc-c5cdabb352f5",
   "port": 3569,
   "secret": "t,ojqnD8",
   "permissions": {
