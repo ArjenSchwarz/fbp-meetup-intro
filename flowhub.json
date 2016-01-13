@@ -1,0 +1,16 @@
+{
+  "id": "e4e0b8df-2634-4fe7-beee-db32ec3996ee",
+  "host": "172.20.10.4",
+  "port": 3569,
+  "secret": "t,ojqnD8",
+  "permissions": {
+    "t,ojqnD8": [
+      "protocol:component",
+      "protocol:runtime",
+      "protocol:graph",
+      "protocol:network",
+      "component:getsource",
+      "component:setsource"
+    ]
+  }
+}
